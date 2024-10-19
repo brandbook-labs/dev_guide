@@ -1,6 +1,6 @@
 
 # Development Guidelines
 
-## Search Matching
+## Basic Search Matching
 - Ignore casing
-- Ignore white spaces
+- Ignore white spaces between two words
