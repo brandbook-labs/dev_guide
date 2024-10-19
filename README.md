@@ -1,2 +1,6 @@
-# dev_guide
-Development Guidelines
+
+# Development Guidelines
+
+## Search Matching
+- Ignore casing
+- Ignore white spaces
